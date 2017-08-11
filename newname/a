@@ -1,0 +1,17 @@
+function a(x){
+	console.log(x);
+}
+
+ 111
+
+function a(x){
+	console.log(x);
+}
+
+ 222
+
+function a(x){
+	console.log(x);
+}
+
+ 333
